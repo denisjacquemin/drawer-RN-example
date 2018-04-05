@@ -1,4 +1,5 @@
 {
+  "email": "E-mail",
   "signIn": "Se connecter",
   "logOut": "Se déconnecter",
   "loginLogoutExampleTitle": "Connexion / Déconnexion Redux + Sagas Exemple",

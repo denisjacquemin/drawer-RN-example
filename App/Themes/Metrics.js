@@ -10,6 +10,7 @@ const metrics = {
   baseMargin: 10,
   doubleBaseMargin: 20,
   smallMargin: 5,
+  verySmallMargin: 2,
   doubleSection: 50,
   horizontalLineHeight: 1,
   screenWidth: width < height ? width : height,

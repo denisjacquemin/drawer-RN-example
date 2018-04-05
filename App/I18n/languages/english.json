@@ -1,4 +1,5 @@
 {
+   "email": "Email",
    "signIn": "Sign In",
    "logOut": "Log Out",
    "loginLogoutExampleTitle": "Login/Logout Redux + Sagas Example",
